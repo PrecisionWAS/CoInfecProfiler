@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CoinfecProfiler:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/CoinfecProfiler_jar</output-path>
+    <root id="archive" name="CoInfecProfiler.jar">
+      <element id="module-output" name="CoInfecProfiler" />
+      <element id="library" level="module" name="commons-math3-3.6.1-tools.jar" module-name="virhap" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Ext_Libs/commons-math3-3.4.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Ext_Libs/commons-math3-3.6.1-tools.jar" path-in-jar="/" />
+      <element id="library" level="module" name="commons-math3-3.4.1.jar" module-name="virhap" />
+    </root>
+  </artifact>
+</component>
